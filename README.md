@@ -62,12 +62,12 @@ Features
     	"uuid": "6b7e224c-a871-4daa-8c0d-9ba17805e1a8",
     	"userEmail": "onkar.saravade@kyepot.com",
     	"items": [
-		{
+			{
             		"uuid": "0e82560e-637d-4e75-9f7b-eac6118c3ed9",
             		"name": "onkar12",
             		"description": "description",
             		"quantity": 5
-        	}
+        		}
     	]
 	}
 
