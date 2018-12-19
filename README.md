@@ -4,7 +4,7 @@ Sample ecommerce backend with spring boot
 Features
 -------------
 
-###Item
+### Item
                 
 `POST` : <http://127.0.0.1:9091/item/create> (Post method below request body)
 
@@ -34,7 +34,7 @@ Features
     	"quantity": 12
 	}
                 
-###Order
+### Order
 `POST` : <http://127.0.0.1:9091/order/place> (Post method below request body)
 
 `Request`
@@ -71,4 +71,4 @@ Features
     	]
 	}
 
-#####With many others endpoint to update item, delete item, get all item, get all orders etc.
+##### With many others endpoint to update item, delete item, get all item, get all orders etc.
